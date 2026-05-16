@@ -1,0 +1,11 @@
+__pycache__/
+venv/
+.env
+*.pyc
+*.pyo   
+Data/
+logs/
+venv310/
+venv311/
+.venv
+*.h5

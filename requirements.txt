@@ -1,0 +1,18 @@
+tensorflow
+opencv-python
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+# For deep learning models
+keras
+torch
+# For data augmentation
+imgaug
+# For handling audio data (if needed)
+librosa
+# For natural language processing (if needed)
+nltk
+# For saving and loading models
+joblib
